@@ -28,4 +28,5 @@
 \contentsline {section}{\numberline {9}Fazit}{69}{section.9}
 \contentsline {section}{\numberline {10}Literaturverzeichnis}{72}{section.10}
 \contentsline {subsection}{\numberline {10.1}Internet}{75}{subsection.10.1}
-\contentsline {chapter}{Abbildungsverzeichnis}{77}{section*.2}
+\contentsline {chapter}{Literaturverzeichnis/Bibliografie}{77}{section*.2}
+\contentsline {chapter}{Abbildungsverzeichnis}{78}{section*.4}
