@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Einleitung}{5}{section.1}
+\contentsline {subsection}{\numberline {1.1}Forschungsfragen}{7}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Auswahl}{8}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Aktueller Forschungsstand}{8}{subsection.1.3}
+\contentsline {section}{\numberline {2}Methodik}{10}{section.2}
+\contentsline {section}{\numberline {3}Die Machtbasis des Papsttums}{12}{section.3}
+\contentsline {section}{\numberline {4}Kunst als Mittel der Repr\"asentation}{15}{section.4}
+\contentsline {section}{\numberline {5}Nepotismus und Klientelbeziehungen}{17}{section.5}
+\contentsline {section}{\numberline {6}Leo X. (1513-1521)}{21}{section.6}
+\contentsline {subsection}{\numberline {6.1}Einzug in den Vatikan}{22}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Ein Elefant in Rom}{26}{subsubsection.6.1.1}
+\contentsline {subsection}{\numberline {6.2}Das Pontifikat}{28}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}Politik}{31}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}Diplomatie}{33}{subsubsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.3}Kunst, Kultur und der Papst als M\"azen}{37}{subsubsection.6.2.3}
+\contentsline {subsubsection}{\numberline {6.2.4}Nepotismus, Netzwerk und Klientel}{42}{subsubsection.6.2.4}
+\contentsline {section}{\numberline {7}Paul V. (1605-1621)}{46}{section.7}
+\contentsline {subsection}{\numberline {7.1}Einzug in den Vatikan}{47}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Das Pontifikat und der Ausbau von Klientelbeziehungen}{48}{subsection.7.2}
+\contentsline {subsubsection}{\numberline {7.2.1}Politik}{52}{subsubsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7.2.2}Diplomatie}{54}{subsubsection.7.2.2}
+\contentsline {subsubsection}{\numberline {7.2.3}Kunst, Kultur und der Papst als Bauherr}{57}{subsubsection.7.2.3}
+\contentsline {subsubsection}{\numberline {7.2.4}Nepotismus und Klientel}{61}{subsubsection.7.2.4}
+\contentsline {section}{\numberline {8}Leo X. und Paul V. im Vergleich}{65}{section.8}
+\contentsline {subsection}{\numberline {8.1}Zur Person}{65}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Herrschaftsdarstellung}{66}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Politik, Machtentfaltung und -erhaltung}{68}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Famili\"are Verstrickungen, Klientel und Nepotismus}{69}{subsection.8.4}
+\contentsline {section}{\numberline {9}Fazit}{72}{section.9}
+\contentsline {section}{\numberline {10}Literaturverzeichnis}{75}{section.10}
+\contentsline {subsection}{\numberline {10.1}Internet}{78}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Bildquelle}{80}{subsection.10.2}
+\contentsline {section}{11 Abbildungsverzeichnis}{82}{section*.2}
