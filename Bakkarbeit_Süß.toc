@@ -25,7 +25,7 @@
 \contentsline {subsection}{\numberline {8.1}Zur Person}{65}{subsection.8.1}
 \contentsline {subsection}{\numberline {8.2}Herrschaftsdarstellung}{66}{subsection.8.2}
 \contentsline {subsection}{\numberline {8.3}Politik, Machtentfaltung und -erhaltung}{68}{subsection.8.3}
-\contentsline {subsection}{\numberline {8.4}Famili\"are Verstrickungen, Klientel und Nepotismus}{69}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.4}Famili\"are Verstrickungen, Klientel und Nepotismus}{70}{subsection.8.4}
 \contentsline {section}{\numberline {9}Fazit}{72}{section.9}
 \contentsline {section}{\numberline {10}Literaturverzeichnis}{75}{section.10}
 \contentsline {subsection}{\numberline {10.1}Internet}{78}{subsection.10.1}
